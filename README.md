@@ -1,2 +1,2 @@
 # AVL-Tree-Implementation
-Implemented an AVL tree for a class project
+Implemented an AVL tree
